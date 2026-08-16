@@ -37,7 +37,7 @@ BDA/
 
 Le projet part d'une modélisation UML classique (diagramme de classes : `MoyenTransport`, `Ligne`, `Navette`, `Voyage`, `Station`, `Troncon`), déclinée ensuite selon les deux paradigmes de bases de données étudiés.
 
-![Page de modélisation : diagramme de classes et modèle orienté document](./images/modelisation.png)
+![Page de modélisation : diagramme de classes et modèle orienté document](./images/Modelisation.png)
 
 ### Oracle (SQL3)
 
